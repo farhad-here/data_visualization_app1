@@ -25,23 +25,23 @@ then
 ```
 in the picture bellow you see, it wants you to give the X lable so click on it and select
 ```
-<img alt='pic1' src='1.PNG'>
+<img alt='pic1' src='pic1.PNG'>
 
 ```
 in the picture bellow you see, it wants you to give the y lable so select it
 ```
-<img alt='pic1' src='2.PNG'>
+<img alt='pic1' src='pic2.PNG'>
 
 ```
 in the picture bellow you see, it is a button so click and you can see the chart
 ```
-<img alt='pic1' src='3.PNG'>
+<img alt='pic1' src='pic3.PNG'>
 
 this is my slad days project and i just starting learning python, so that is the resone why UI AND UX are old.
 
 ## 🧮App
 
-<img alt='pic1' src='4.PNG'>
+<img alt='pic1' src='pic4.PNG'>
 
 ---
 👨‍💻Used Technologies
