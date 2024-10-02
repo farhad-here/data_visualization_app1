@@ -1,7 +1,7 @@
 # 🎉This is my data visualization project with tkinter
 ## ✍️I wrote this when i was learning python and then university wants me to create data visualization project.
 ## 🧑Manual
-First be sure about you pip these thing  although they are in venv
+First be sure about you pip these thing
 ```
 python
 ```
