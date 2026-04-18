@@ -1,5 +1,5 @@
-# 🎉This is my data visualization project with tkinter
-## ✍️I wrote this when i was learning python and then university wants me to create data visualization project.
+# 🎉This is data visualization project with tkinter
+✍️I had wrote this for my university project.
 ## 🧑Manual
 First be sure about you pip these thing
 ```
